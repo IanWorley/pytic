@@ -1,6 +1,6 @@
-row0 = [' ', ' ', ' ']
-row1 = [' ', ' ', ' ']
-row2 = [' ', ' ', ' ']
+row0 = [' ' * 3]
+row1 = [' ' * 3]
+row2 = [' ' * 3]
 winner_X_list = ['X' * 3]
 winner_O_list = ['O' * 3]
 is_X = True
